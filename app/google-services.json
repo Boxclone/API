@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633997139851",
+    "project_id": "anhanh-fc4cd",
+    "storage_bucket": "anhanh-fc4cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633997139851:android:f154abaee0608f1a5fd98e",
+        "android_client_info": {
+          "package_name": "com.example.anhanh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633997139851-s38t75o9ihgg7audo7anok42m3o40unp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB06HydKRw_9-7iD7extDJ4lW7VVjwHcd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633997139851-s38t75o9ihgg7audo7anok42m3o40unp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
